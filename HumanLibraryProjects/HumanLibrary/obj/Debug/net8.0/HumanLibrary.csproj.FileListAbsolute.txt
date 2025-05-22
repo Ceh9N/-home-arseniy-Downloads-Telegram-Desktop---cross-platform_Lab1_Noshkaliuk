@@ -1,0 +1,11 @@
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\bin\Debug\net8.0\HumanLibrary.deps.json
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\bin\Debug\net8.0\HumanLibrary.dll
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\bin\Debug\net8.0\HumanLibrary.pdb
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\HumanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\HumanLibrary.AssemblyInfoInputs.cache
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\HumanLibrary.AssemblyInfo.cs
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\HumanLibrary.csproj.CoreCompileInputs.cache
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\HumanLibrary.dll
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\refint\HumanLibrary.dll
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\HumanLibrary.pdb
+E:\навчання\4_курс_2_семестр\крос-платформне\project\HumanLibraryProjects\HumanLibrary\obj\Debug\net8.0\ref\HumanLibrary.dll
